@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ux-pilot": {
+      "type": "http",
+      "url": "https://mcp.uxpilot.net/mcp"
+    }
+  }
+}
